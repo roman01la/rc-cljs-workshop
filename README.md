@@ -60,7 +60,7 @@ It's highly recommeneded to use _IntelliJ IDEA_ with _Cursive_ plugin since it h
 - Enable Parinfer editing mode
 - Check keybindings
 
-### Atom
+#### Atom
 
 Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). You don't have to install and configure everything, the important parts are: [Parinfer](https://github.com/oakmac/atom-parinfer) plugin, [language-clojure](https://gist.github.com/jasongilman/d1f70507bed021b48625#language-clojure) settings, [lisp-paredit](https://gist.github.com/jasongilman/d1f70507bed021b48625#lisp-paredit) settings and [Atom Settings](https://gist.github.com/jasongilman/d1f70507bed021b48625#atom-settings) sections.
 
