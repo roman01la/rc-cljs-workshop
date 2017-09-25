@@ -11,6 +11,15 @@ It's nice to know the following:
 - React.js
 - Basics of functional programming
 
+## Help during the workshop
+
+Here's a couple of useful resources that will help you during the workshop:
+
+- [ClojureScript Synonyms](https://kanaka.github.io/clojurescript/web/synonym.html) — translation of common things from JavaScript into ClojureScript
+- [ClojureScript Cheatsheet](http://cljs.info/cheatsheet/) — a quick reference to a standard library of the language
+- [ClojureDocs](https://clojuredocs.org/) — documentation website
+- [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) — a style guide to writing idiomatic Clojure code
+
 ## Agenda
 
 - Intro into Lisp
@@ -76,6 +85,3 @@ Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). 
 - [Quickref for Clojure Core](https://clojuredocs.org/quickref)
 - [ClojureScript Tutorial](https://www.niwi.nz/cljs-workshop/)
 - [ClojureScript Koans](http://clojurescriptkoans.com/)
-- [Video course (RU)](https://www.youtube.com/playlist?list=PLHOTezm7WWkmk_NxC51xwnC2YsAut_5vX)
-- [re-frame](https://github.com/Day8/re-frame)
-- [Clojure Jobs](https://purelyfunctional.tv/resources/clojure-jobs-resources/)
