@@ -1,5 +1,7 @@
 # [ClojureScript Workshop](https://reactiveconf.com/workshop/introduction-to-clojurescript) @ [ReactiveConf '17](https://reactiveconf.com/2017/)
 
+![](logo.png)
+
 Timing: 4hrs (1:00 PM - 5:00 PM)
 
 ## Agenda
