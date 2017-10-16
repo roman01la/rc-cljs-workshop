@@ -33,7 +33,6 @@ Here's a couple of useful resources that will help you during the workshop:
 
 - Syntax
 - Variable declaration & local bindings
-- Applying functions: Math operators
 - Fighting parens: Threading macro
 - Primitive data types
 - Function declaration
