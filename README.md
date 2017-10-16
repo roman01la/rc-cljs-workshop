@@ -35,10 +35,11 @@ Here's a couple of useful resources that will help you during the workshop:
 - Variable declaration & local bindings
 - Fighting parens: Threading macro
 - Primitive data types
+- Control flow
 - Data structures
 - Operations on data structures
+- State & Identity
 - Destructuring
-- State
 - Higher-order functions and stdlib (?)
 - JavaScript interop
 - Multimethods (?)
