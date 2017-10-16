@@ -35,8 +35,6 @@ Here's a couple of useful resources that will help you during the workshop:
 - Variable declaration & local bindings
 - Fighting parens: Threading macro
 - Primitive data types
-- Function declaration
-- Control flow operators
 - Data structures
 - Operations on data structures
 - Destructuring
