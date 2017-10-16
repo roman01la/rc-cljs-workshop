@@ -32,10 +32,11 @@ Here's a couple of useful resources that will help you during the workshop:
 
 ## Topics
 
-- Primitive data types
+- Syntax
 - Variable declaration & local bindings
 - Applying functions: Math operators
 - Fighting parens: Threading macro
+- Primitive data types
 - Function declaration
 - Control flow operators
 - Data structures
@@ -52,6 +53,8 @@ Here's a couple of useful resources that will help you during the workshop:
 ## Setup
 
 No setup is needed! For this workshop we'll use online coding environments such as [Maria](https://www.maria.cloud/) and [Nightcoders](http://nightcoders.net/).
+
+- [Maria Quickstart](https://www.maria.cloud/quickstart)
 
 ## Useful links
 
