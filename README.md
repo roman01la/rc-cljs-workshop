@@ -27,7 +27,6 @@ Here's a couple of useful resources that will help you during the workshop:
 - How to read Lisp code
 - How to edit Lisp code
 - Paredit and Parinfer editing modes
-- Check setup
 - Lectures & exercises
 
 ## Topics
