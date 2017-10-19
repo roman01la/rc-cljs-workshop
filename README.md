@@ -40,12 +40,8 @@ Here's a couple of useful resources that will help you during the workshop:
 - Operations on data structures
 - State & Identity
 - Destructuring
-- Higher-order functions and stdlib (?)
 - JavaScript interop
-- Multimethods (?)
 - Namespaces
-- Exploring example app
-- Building your own app from scratch
 
 ## Setup
 
