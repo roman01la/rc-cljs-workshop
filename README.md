@@ -65,3 +65,4 @@ No setup is needed! For this workshop we'll use online coding environments such 
 - [Quickref for Clojure Core](https://clojuredocs.org/quickref)
 - [ClojureScript Tutorial](https://www.niwi.nz/cljs-workshop/)
 - [ClojureScript Koans](http://clojurescriptkoans.com/)
+- [Transforming Data with ClojureScript](http://langintro.com/cljsbook/)
