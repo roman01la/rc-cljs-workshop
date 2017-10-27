@@ -42,6 +42,8 @@ Here's a couple of useful resources that will help you during the workshop:
 - [Interop with JavaScript](https://www.maria.cloud/gist/f44cd7efc1bc608ccbb82e30f32ec33a)
 - [Namespaces](https://www.maria.cloud/gist/0e9b151cbdce36f877b4eab8e0bb41b2)
 - [Rendering UI](https://www.maria.cloud/gist/339e96930ffaa4e6f6f10a63a592ce46)
+- [Basic concepts of Rum](https://www.dropbox.com/s/pb94uhrlank3tkk/ui.zip?dl=0)
+- [Chat web app source](https://www.dropbox.com/s/t1fv3lmhl6o6kdb/rc-chat.zip?dl=0)
 
 ## Setup
 
