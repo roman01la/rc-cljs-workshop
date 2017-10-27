@@ -23,7 +23,7 @@ Here's a couple of useful resources that will help you during the workshop:
 ## Agenda
 
 - [Intro into Lisp](https://github.com/roman01la/rc-cljs-workshop/blob/master/lisp_basics.pdf)
-- Intro into Clojure
+- [Intro into Clojure](https://clojure.org/about/rationale)
 - How to read Lisp code
 - How to edit Lisp code
 - Paredit and Parinfer editing modes
