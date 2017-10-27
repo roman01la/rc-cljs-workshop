@@ -22,7 +22,7 @@ Here's a couple of useful resources that will help you during the workshop:
 
 ## Agenda
 
-- Intro into Lisp
+- [Intro into Lisp](https://github.com/roman01la/rc-cljs-workshop/blob/master/lisp_basics.pdf)
 - Intro into Clojure
 - How to read Lisp code
 - How to edit Lisp code
@@ -31,17 +31,17 @@ Here's a couple of useful resources that will help you during the workshop:
 
 ## Topics
 
-- Syntax
-- Variable declaration & local bindings
-- Fighting parens: Threading macro
-- Primitive data types
-- Control flow
-- Data structures
-- Operations on data structures
-- State & Identity
-- Destructuring
-- JavaScript interop
-- Namespaces
+- [Syntax, variable declaration & local bindings](https://www.maria.cloud/gist/5947b43a1a990b45c0f6007a91505b3f)
+- [Fighting parens: Threading macro](https://www.maria.cloud/gist/9eddaa7fa40b5957ed6eab46c3f37878)
+- [Primitive data types](https://www.maria.cloud/gist/55b3b59f3b2e58bc6dbe954686e8f6c5)
+- [Control flow](https://www.maria.cloud/gist/5efb1cd1cfae36f4f0a9daafc4391267)
+- [Data structures](https://www.maria.cloud/gist/79d279c216d285fd290ee96b5044204c)
+- [Transforming Collections](https://www.maria.cloud/gist/644f52f501aa7de1e929f88030f415c0)
+- [State & Identity](https://www.maria.cloud/gist/afabe1d520a3bf13364facd1f593c991)
+- [Destructuring](https://www.maria.cloud/gist/e6f25e53f9274ddad70fdcf5b2de9b48)
+- [Interop with JavaScript](https://www.maria.cloud/gist/f44cd7efc1bc608ccbb82e30f32ec33a)
+- [Namespaces](https://www.maria.cloud/gist/0e9b151cbdce36f877b4eab8e0bb41b2)
+- [Rendering UI](https://www.maria.cloud/gist/339e96930ffaa4e6f6f10a63a592ce46)
 
 ## Setup
 
